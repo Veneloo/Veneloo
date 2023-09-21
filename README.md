@@ -14,9 +14,8 @@ I like expressing the way I see the world in my coding methods no matter what th
 <img align="left" alt="Python" width="29px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"> 
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
----
-### Conect with me:
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px" src="https://icons8.com/icon/8808/linkedin">
+###---
+
 
 
 

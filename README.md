@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java, React, Node.js**
 
- 💬 Ask me about **Pyhton, C++, HTML, ... or anything [here](https://github.com/Veneloo/Veneloo/issues)**
+ 💬 Ask me about **Pyhton, C++, HTML, ... or anything**
 
  ⚡ Fun fact **Freelancers originally referred to self-employed, sword wilding mercenaries: literally "free lancers"**
  

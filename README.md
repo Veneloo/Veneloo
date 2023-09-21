@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java, React, Node.js**
 
- 💬 Ask me about **Pyhton, C++, HTML, ... or anything**
+ 💬 Ask me about **Pyhton, C++, HTML, ... or Pokemon**
 
  ⚡ Fun fact **Freelancers originally referred to self-employed, sword wilding mercenaries: literally "free lancers"**
  

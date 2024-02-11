@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Worldwide Soccer League Tracker**
  
- 🌱 I’m currently learning **MERN Stack: MongoDB, Express.js, React.js, Node.js **
+ 🌱 I’m currently learning **MERN Stack: MongoDB, Express.js, React.js, Node.js**
 
  💬 Ask me about **Pyhton, C++, HTML, ... or Pokemon**
 
